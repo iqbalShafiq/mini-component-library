@@ -31,6 +31,7 @@ const SelectWrapper = styled.div`
 `
 
 const SelectElem = styled.select`
+    field-sizing: content;
     padding: 8px 40px 8px 8px;
     border: 0;
     color: inherit;
